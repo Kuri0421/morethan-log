@@ -7,7 +7,7 @@ const CONFIG = {
         bio: '👨‍🎓一般的な男子大学生',
         email: '',
         linkedin: '',
-        github: 'kuri3',
+        github: 'Kuri0421',
         instagram: '',
     },
     projects: [{
