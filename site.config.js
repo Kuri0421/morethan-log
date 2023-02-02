@@ -2,8 +2,8 @@ const CONFIG = {
     // profile setting (required)
     profile: {
         name: 'kuri3',
-        image: '/avatar.svg', // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-        role: 'frontend developer',
+        image: '/avatar.png', // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+        role: '主にキャッシュレスオタク',
         bio: '👨‍🎓一般的な男子大学生',
         email: '',
         linkedin: '',
@@ -11,8 +11,8 @@ const CONFIG = {
         instagram: '',
     },
     projects: [{
-        name: `morethan-log`,
-        href: 'https://github.com/morethanmin/morethan-log'
+        name: `Kuri3の履歴書`,
+        href: 'https://kuri3.cc'
     }],
     // blog setting (required)
     blog: {
@@ -22,7 +22,7 @@ const CONFIG = {
     },
 
     // CONFIG configration (required)
-    link: 'https://morethan-log.vercel.app',
+    link: 'https://kuri3.cc',
     since: 2023, // If leave this empty, current year will be used.
     lang: 'ja-JP', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
     ogImageGenerateURL: 'https://og-image-korean.vercel.app', // The link to generate OG image, don't end with a slash
